@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I was enforced to write down these texts becaue of boot.dev hahahahahaah
 
 I've been enjoying web development for the first time ever since I built my first Go project, "stackwrapr". The consolidated toolchain makes me want to leave the JavaScript ecosystem behind for good.
 
